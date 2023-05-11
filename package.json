@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/core": "^10.1.0",
     "vue": "^3.2.47",
     "vue3-highlightjs": "^1.0.5"
   },
